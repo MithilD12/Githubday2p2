@@ -27,4 +27,5 @@ public class Githubday2p2{
       		multiply*=10;
     	}
     	return creation;
+	}
 }
